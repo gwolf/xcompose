@@ -1349,3 +1349,11 @@ include "%L"
 <Multi_key> <parenleft> <1> <2> <colon> <3> <0> <parenright>     : "🕧" U1F567 # CLOCK FACE TWELVE-THIRTY
 # Real bitcoin symbol now.
 <Multi_key> <B> <bar> : "₿" U20BF  # BITCOIN SIGN
+
+# Creative Commons signs
+<Multi_key> <C> <c> <c> : "🅭" U1F16D CIRCLED CC = Creative Commons license
+<Multi_key> <C> <z>     : "🄍" U1F10D CIRCLED ZERO WITH SLASH = no rights reserved
+<Multi_key> <C> <s> <a> : "⭴" U1F10E CIRCLED ANTICLOCKWISE ARROW = share alike
+<Multi_key> <C> <n> <c> : "⭵" U1F10F CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH = non commercial
+<Multi_key> <C> <b> <y> : "🅯" U1F16F CIRCLED HUMAN FIGURE = attribution, credit
+<Multi_key> <C> <=>     : "⊜" U229C CIRCLED EQUALS = no derivatives
